@@ -1,0 +1,9 @@
+# data
+final_result/
+*.pkl
+
+# IDE
+.idea/
+
+# weird absolute paths
+D:\
