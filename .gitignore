@@ -7,3 +7,7 @@ final_result/
 
 # weird absolute paths
 D:\
+final_result/
+.idea/
+*.pkl
+D:\
